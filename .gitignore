@@ -1,0 +1,9 @@
+logs
+target
+/.idea
+/.metals
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
